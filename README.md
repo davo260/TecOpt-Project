@@ -17,10 +17,10 @@ El modelo se formula como un **Problema de Programación Lineal Entera Mixta (MI
 ##  Estructura del repositorio
 ```
 ├── data/ # Datos de generación y demanda (o script para generarlos)
-├── src/ # Funciones auxiliares (si aplica)
+├── src/ # Funciones auxiliares 
 ├── optproject.ipynb # Implementación completa del modelo y simulaciones
 ├── README.md # Este documento
-└── results/ # Gráficas o resultados generados (opcional)
+└── results/ # Gráficas o resultados generados 
 ```
 ## Requerimientos
 
